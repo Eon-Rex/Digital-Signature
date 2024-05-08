@@ -1,0 +1,6 @@
+OldFilePath:C:\DigitalSignatureSettings\Temp\$
+NewFilePath:C:\DigitalSignatureSettings\SignedPdf\$
+REASON:Tax Invoice$
+LOCATION:Warehouse After Market$
+SIGNERNAME:AMIT MEHRA$
+SignOnEveryPage:false$

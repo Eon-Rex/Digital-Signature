@@ -1,0 +1,11 @@
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\Acx_Digi_Sign.exe.config
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\Acx_Digi_Sign.exe
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\Acx_Digi_Sign.pdb
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\itextsharp.dll
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\itextsharp.xml
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\Acx_Digi_Sign.csproj.AssemblyReference.cache
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\Acx_Digi_Sign.csproj.CoreCompileInputs.cache
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\Acx_Digi.AE40A45B.Up2Date
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\Acx_Digi_Sign.exe
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\Acx_Digi_Sign.pdb

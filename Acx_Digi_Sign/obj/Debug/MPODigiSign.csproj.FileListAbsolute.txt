@@ -1,0 +1,30 @@
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\itextsharp.dll
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\itextsharp.xml
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.csproj.AssemblyReference.cache
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.csproj.CoreCompileInputs.cache
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiS.EC8CA130.Up2Date
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\MPODigiSign.exe.config
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\MPODigiSign.exe.manifest
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\MPODigiSign.application
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\MPODigiSign.exe
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\MPODigiSign.pdb
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.exe.manifest
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.application
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.exe
+C:\Users\ACXIOM\source\repos\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.pdb
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\MPODigiSign.exe.config
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\MPODigiSign.exe.manifest
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\MPODigiSign.application
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\MPODigiSign.exe
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\MPODigiSign.pdb
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\itextsharp.dll
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\bin\Debug\itextsharp.xml
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.csproj.AssemblyReference.cache
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.csproj.CoreCompileInputs.cache
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.exe.manifest
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.application
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiS.EC8CA130.Up2Date
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.exe
+C:\Users\ACX-Mushahid Khan\Desktop\Acx_Digi_Sign\Acx_Digi_Sign\obj\Debug\MPODigiSign.pdb
